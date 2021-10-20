@@ -1,0 +1,126 @@
+[
+    {
+        "ID": 0,
+        "Title": "Starter Pack 1",
+        "Info": "This is a package for those who want to check up for the first time.This package offers blood sugar test in both Fasting & ABF mode.",
+        "image": "https://i.ibb.co/pXdSfs7/1.png",
+        "Tests": [
+            "Complete Blood Count (CBC)",
+            "Blood Sugar (Fasting & 2 hrs ABF)",
+            "Lipid Profile (Fasting)",
+            "Blood Grouping & Rh Factor",
+            "HBsAg",
+            "SGPT",
+            "Serum Bilirubin (Total)",
+            "Serum Uric Acid",
+            "Serum Creatinine",
+            "Urine R/E",
+            "ECG",
+            "X-Ray Chest PA View (Digital)",
+            "Ultrasonography of Whole Abdomen"
+        ],
+        "Price": 5200
+    },
+    {
+        "ID": 1,
+        "Title": "Starter Pack 2",
+        "Info": "This is a package for those who want to check up for the first time.This package offers blood sugar test in random mode only.",
+        "image": "https://i.ibb.co/V3q6hJp/2.png",
+        "Tests": [
+            "Complete Blood Count (CBC)",
+            "Random Blood Sugar",
+            "Lipid Profile (Random)",
+            "Blood Grouping & Rh Factor",
+            "Serum Creatinine",
+            "HBsAg",
+            "Urine R/E",
+            "ECG",
+            "X-Ray Chest PA View (Digital)",
+            "Ultrasonography of Whole Abdomen"
+        ],
+        "Price": 4200
+    },
+    {
+        "ID": 2,
+        "Title": "Exclusive for Male",
+        "Info": "This is a package for those who want to check up before marriage.This package is specially for male clients",
+        "image": "https://i.ibb.co/hMFdPvD/3.png",
+        "Tests": [
+            "Complete Blood Count (CBC)",
+            "Blood Sugar (Fasting & 2 hrs ABF)",
+            "HbA1c",
+            "Lipid Profile (Fasting)",
+            "Liver Function Test",
+            "Serum Creatinine",
+            "Serum Uric Acid",
+            "Serum Electrolytes",
+            "TSH",
+            "HBsAg",
+            "PSA",
+            "Urine R/E",
+            "ECG",
+            "X-Ray Chest PA View (Digital)",
+            "Ultrasonography of Whole Abdomen"
+        ],
+        "Price": 8000
+    },
+    {
+        "ID": 3,
+        "Title": "Exclusive for Female",
+        "Info": "This is a package for those who want to check up before marriage.This package is specially for female clients",
+        "image": "https://i.ibb.co/qMwWXPH/4.png",
+        "Tests": [
+            "Complete Blood Count (CBC)",
+            "Blood Sugar (Fasting & 2 hrs ABF)",
+            "HbA1c",
+            "Lipid Profile (Fasting)",
+            "Liver Function Test",
+            "Serum Creatinine",
+            "Serum Uric Acid",
+            "Serum Electrolytes",
+            "TSH",
+            "HBsAg",
+            "Pap Smear",
+            "Urine R/E",
+            "ECG",
+            "X-Ray Chest PA View (Digital)",
+            "Mammography of Both Breast",
+            "Ultrasonography of Whole Abdomen"
+        ],
+        "Price": 9800
+    },
+    {
+        "ID": 4,
+        "Title": "Care For 40+",
+        "Info": "This is a package for those who are the age of 40+. This package will examine functionalities of vital organs.",
+        "image": "https://i.ibb.co/ZRQH8N5/5.png",
+        "Tests": [
+            "Complete Blood Count (CBC)",
+            "Blood Sugar (Fasting & 2 hrs ABF)",
+            "HbA1c",
+            "Lipid Profile (Fasting)",
+            "Liver Function Test",
+            "Kidney Function Test",
+            "C-Reactive Protein (CRP)",
+            "TSH",
+            "HBsAg",
+            "Urine R/E",
+            "ECG",
+            "X-Ray Chest PA View (Digital)",
+            "Colour Doppler Echo",
+            "ETT"
+        ],
+        "Price": 10500
+    },
+    {
+        "ID": 5,
+        "Title": "Doctor Consultancy",
+        "Info": "You can consult with our doctors and specialist. They will choose the right medical test for you to diagnose your disease.",
+        "image": "https://i.ibb.co/KhdDMYw/6.png",
+        "Tests": [
+            "Our Specialist doctors will prescribe you the the necessary medical tests",
+            "They will take of you"
+        ],
+        "Price": 15000
+    }
+]
